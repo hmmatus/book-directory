@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "dev": "node ./src/webserver/server.js",
+    "start": "node ./src/webserver/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
