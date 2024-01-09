@@ -2,9 +2,9 @@
   "name": "book-directory",
   "version": "1.0.0",
   "description": "Book directory",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "dev": "node index.js",
+    "dev": "node ./src/webserver/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
